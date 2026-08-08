@@ -58,7 +58,6 @@ I am passionate about building scalable web applications, developing backend sys
 
 ### 🏠 Home
 Introduces me as:
-
 - Python Full Stack Developer
 - Software Developer
 - Backend Developer
@@ -83,12 +82,10 @@ Provides an overview of my technical background, interests, and career objective
 
 **Junior Customer Executive — MDIndia Insurance Pvt. Ltd.**  
 2024 – 2025
-
 Handled customer queries related to insurance policies and claims, maintained accurate records, coordinated with internal teams, and ensured timely issue resolution.
 
 **Python Full Stack Development — Besant Technologies**  
 2025 – Present
-
 Hands-on training in Python, SQL, HTML, CSS, JavaScript, and React.js with practical experience building web applications and working with databases.
 
 ### 🚀 Projects
